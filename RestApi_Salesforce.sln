@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestApi_Salesforce", "RestApi_Salesforce\RestApi_Salesforce.csproj", "{A942C5F6-F5DB-4280-AA39-F959F6CA634E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A942C5F6-F5DB-4280-AA39-F959F6CA634E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A942C5F6-F5DB-4280-AA39-F959F6CA634E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A942C5F6-F5DB-4280-AA39-F959F6CA634E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A942C5F6-F5DB-4280-AA39-F959F6CA634E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40A6CBFA-58E5-4FEA-9875-3D30C214F61E}
+	EndGlobalSection
+EndGlobal
